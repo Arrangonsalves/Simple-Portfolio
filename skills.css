@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+}
+.hero{
+	background:url(skills.jpg);
+	background-position: center;
+  	background-repeat: no-repeat;
+	background-size: auto;
+	height:955px;
+	position:relative;
+}
+.hero-text{
+	text align: center;
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: black;
+}
+ul{
+	display:block;
+}
+li{
+	font-size:30px;
+	
+}
+

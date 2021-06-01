@@ -1,0 +1,10 @@
+body{
+	background-image:url(pic1.jpg);
+	background-size:cover;
+}
+div { 
+ 	display:block;
+	position: absolute;
+	top:50%;
+	left:42%;
+}
