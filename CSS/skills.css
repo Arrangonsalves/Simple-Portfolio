@@ -2,7 +2,7 @@ body{
 	background-color: black;
 }
 .hero{
-	background:url(Images/skills.jpg);
+	background:url(Images\skills.jpg);
 	background-position: center;
   	background-repeat: no-repeat;
 	background-size: auto;
